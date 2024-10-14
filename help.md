@@ -6,6 +6,13 @@ seguinte, isso foi trabalohoso pra krl, mas finalmente conseguimos enviar o bagu
 
 ### passos dados
 primeiranmente, irei colocar as pessoas nos quais foram os ombros nos quais me apoiei:
+
+<br>
+As libs: <br>
+```sh
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+```
+
 <br>
 <br>
 
